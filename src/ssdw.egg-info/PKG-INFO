@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: ssdw
+Version: 0.0.2
+Summary: 'A simple and fast way to use the European Central Bank's Statistical Warehouse Data with Python.
+Home-page: https://github.com/semeonv/simplesdw
+Author: Semeon Vlahotasios
+Author-email: svlahota@usc.edu
+Project-URL: Bug Tracker, https://github.com/semeonv/SimpleSDW
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # simplesdw
 SimpleSDW is simple and fast way to use the European Central Bank's Statistical Warehouse Data with Python.
 

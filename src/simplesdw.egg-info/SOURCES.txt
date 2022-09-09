@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/simplesdw/__init__.py
+src/simplesdw/sdw.py
+src/simplesdw.egg-info/PKG-INFO
+src/simplesdw.egg-info/SOURCES.txt
+src/simplesdw.egg-info/dependency_links.txt
+src/simplesdw.egg-info/top_level.txt
